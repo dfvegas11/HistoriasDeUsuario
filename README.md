@@ -1,10 +1,3 @@
-| Juego            												 						|
-|---------------------|-------------|---------------|--------------|
-| Animal Crossing   | Nintendo   | E                | 1600              |
-| Persona 5         | Atlus       | T             | 1500         |
-| Final Fantasy VII | Square Enix | T             | 1500         |
-| Fortnite          | Epic Games  | M             | 0            |
-
 # Historias De Usuario
 
 **David Felipe Vega Sierra - 20182020033**
@@ -14,10 +7,10 @@
 **Gabriel Parra Cortes - 20182020031**
 
 ### Historias de usuario: 
-| **Título:** 						|**Id:** 1								|
-|------------------------------------------------------------|
+| **Título:**|**Id:** 1|
+|----------------------------|--------------------------------|
 | **Historia de usuario:** Como **tendero** quiero saber la hora de llegada de los trabajadores para mirar el cumplimiento de sus horarios de trabajo.||
-| **Prioridad:** 						|**Estimación (días):**|
+| **Prioridad:**|**Estimación (días):**|
 
 | **Título:** 						|**Id:** 2								|
 |------------------------------------------------------------|
